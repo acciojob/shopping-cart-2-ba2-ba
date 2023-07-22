@@ -45,4 +45,4 @@ function insertItem() {
 
     document.querySelector('[data-ns-test=grandTotal]').innerText=grandTotal;
     
-}s
+}
